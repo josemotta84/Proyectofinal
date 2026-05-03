@@ -6,7 +6,7 @@ import seaborn as sns
 import numpy as np
 
 # 1. Configuración de rutas y carga
-MODEL_PATH = "https://github.com/josemotta84/Proyectofinal/rf_model_airbnb.joblib"
+MODEL_PATH = "https://raw.githubusercontent.com/josemotta84/Proyectofinal/rf_model_airbnb.joblib"
 DATA_PATH = "https://raw.githubusercontent.com/josemotta84/Proyectofinal/data_airbnb_test_sample.csv"
 
 def validate_model():
